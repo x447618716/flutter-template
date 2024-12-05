@@ -1,0 +1,436 @@
+{
+  "@@locale": "zh",
+  "appTitle": "flutter_template",
+  "@appTitle": {
+    "description": "GPS应用"
+  },
+  "privacyPolicy": "隐私政策",
+  "@privacyPolicy": {
+    "description": "隐私政策"
+  },
+  "agreement": "用户协议",
+  "@agreement": {
+    "description": "用户协议"
+  },
+  "alarmSet": "告警推送设置",
+  "@alarmSet": {
+    "description": "告警推送设置"
+  },
+  "unbindDevice": "设备解绑",
+  "@unbindDevice": {
+    "description": "设备解绑"
+  },
+  "shareDevice": "设备分享",
+  "@shareDevice": {
+    "description": "设备分享"
+  },
+  "cancelRegistration": "用户注销",
+  "@cancelRegistration": {
+    "description": "用户注销"
+  },
+  "login": "登录/注册",
+  "@login": {
+    "description": "登录/注册"
+  },
+  "logout": "退出登录",
+  "@logout": {
+    "description": "退出登录"
+  },
+  "logoutConfirm": "确定退出登录吗?",
+  "@logoutConfirm": {
+    "description": "确定退出登录吗?"
+  },
+  "phoneNumber": "手机号",
+  "@phoneNumber": {
+    "description": "手机号"
+  },
+  "phoneNumberHint": "请输入手机号",
+  "@phoneNumberHint": {
+    "description": "请输入手机号"
+  },
+  "verificationCode": "验证码",
+  "@verificationCode": {
+    "description": "验证码"
+  },
+  "verificationCodeHint": "请输入验证码",
+  "@verificationCodeHint": {
+    "description": "请输入验证码"
+  },
+  "getVerificationCode": "获取验证码",
+  "@getVerificationCode": {
+    "description": "获取验证码"
+  },
+  "iHaveReadAndUnderstood": "我已仔细阅读并同意以下协议",
+  "@iHaveReadAndUnderstood": {
+    "description": "我已仔细阅读并同意以下协议"
+  },
+  "readProtocolHint": "请仔细阅读并同意协议",
+  "@readProtocolHint": {
+    "description": "请仔细阅读并同意协议"
+  },
+  "privacyPolicyQuotationMark": "《隐私政策》",
+  "@privacyPolicyQuotationMark": {
+    "description": "《隐私政策》"
+  },
+  "agreementQuotationMark": "《用户协议》",
+  "@agreementQuotationMark": {
+    "description": "《用户协议》"
+  },
+  "navLocation": "位置",
+  "@navLocation": {
+    "description": "位置"
+  },
+  "navControl": "控制",
+  "@navControl": {
+    "description": "控制"
+  },
+  "navMessage": "消息",
+  "@navMessage": {
+    "description": "消息"
+  },
+  "navSettings": "个人",
+  "@navSettings": {
+    "description": "个人"
+  },
+  "satellite": "卫星",
+  "@satellite": {
+    "description": "卫星"
+  },
+  "normal": "标准",
+  "@normal": {
+    "description": "标准"
+  },
+  "navigation": "导航",
+  "@navigation": {
+    "description": "导航"
+  },
+  "locate": "立即定位",
+  "@locate": {
+    "description": "立即定位"
+  },
+  "deviceState": "设备状态",
+  "@deviceState": {
+    "description": "设备状态"
+  },
+  "netState": "设备网络",
+  "@netState": {
+    "description": "设备网络"
+  },
+  "battery": "电池电量",
+  "@battery": {
+    "description": "电池电量"
+  },
+  "satelliteSignal": "卫星信号",
+  "@satelliteSignal": {
+    "description": "卫星信号"
+  },
+  "dialogDefaultTitle": "提示",
+  "@dialogDefaultTitle": {
+    "description": "提示"
+  },
+  "cancel": "取消",
+  "@cancel": {
+    "description": "取消"
+  },
+  "confirm": "确认",
+  "@confirm": {
+    "description": "确认"
+  },
+  "noData": "暂无数据",
+  "@noData": {
+    "description": "暂无数据"
+  },
+  "traceMode": "定位模式",
+  "@traceMode": {
+    "description": "定位模式"
+  },
+  "historyTrace": "历史轨迹",
+  "@historyTrace": {
+    "description": "历史轨迹"
+  },
+  "fence": "电子围栏",
+  "@fence": {
+    "description": "电子围栏"
+  },
+  "remotePower": "远程开关机",
+  "@remotePower": {
+    "description": "远程开关机"
+  },
+  "troubleshooting": "故障排查",
+  "@troubleshooting": {
+    "description": "故障排查"
+  },
+  "more": "更多",
+  "@more": {
+    "description": "更多"
+  },
+  "soundProtection": "声控防盗",
+  "@soundProtection": {
+    "description": "声控防盗"
+  },
+  "deviceDetail": "设备详情",
+  "@deviceDetail": {
+    "description": "设备详情"
+  },
+  "remoteRestart": "远程重启",
+  "@remoteRestart": {
+    "description": "远程重启"
+  },
+  "commandHistory": "指令记录",
+  "@commandHistory": {
+    "description": "指令记录"
+  },
+  "alarmSettings": "告警设置",
+  "@alarmSettings": {
+    "description": "告警设置"
+  },
+  "tripReport": "行程报表",
+  "@tripReport": {
+    "description": "行程报表"
+  },
+  "helpAndFeedback": "帮助与反馈",
+  "@helpAndFeedback": {
+    "description": "帮助与反馈"
+  },
+  "clear": "一键清除",
+  "@clear": {
+    "description": "一键清除"
+  },
+  "viewAddress": "查看地址",
+  "@viewAddress": {
+    "description": "查看地址"
+  },
+  "deviceSN": "设备号码",
+  "@deviceSN": {
+    "description": "设备号码"
+  },
+  "triggerTime": "触发时间",
+  "@triggerTime": {
+    "description": "触发时间"
+  },
+  "selectDevice": "选择设备",
+  "@selectDevice": {
+    "description": "选择设备"
+  },
+  "myDevices": "我的设备",
+  "@myDevices": {
+    "description": "我的设备"
+  },
+  "sharedDevices": "授权设备",
+  "@sharedDevices": {
+    "description": "授权设备"
+  },
+  "gotoDevice": "进入",
+  "@gotoDevice": {
+    "description": "进入设备"
+  },
+  "deiveSelectTip": "请选择对应设备进入",
+  "@deiveSelectTip": {
+    "description": "请选择对应设备进入"
+  },
+  "deiveAdd": "新增设备",
+  "@deiveAdd": {
+    "description": "新增设备"
+  },
+  "deiveName": "设备昵称",
+  "@deiveName": {
+    "description": "设备昵称"
+  },
+  "deiveNameHint": "请输入设备昵称",
+  "@deiveNameHint": {
+    "description": "请输入设备昵称"
+  },
+  "deiveSNHint": "请输入设备号码",
+  "@deiveSNHint": {
+    "description": "请输入设备号码"
+  },
+  "switchAll": "-键开关",
+  "@switchAll": {
+    "description": "-键开关"
+  },
+  "loading": "-加载中...",
+  "@loading": {
+    "description": "-加载中..."
+  },
+  "notAnyMore": "没有更多了",
+  "@notAnyMore": {
+    "description": "没有更多了"
+  },
+  "isRead": "{isRead, select, other{未读} true{已读}}",
+  "@isRead": {
+    "description": "Is read",
+    "placeholders": {
+      "isRead": {
+        "type": "String",
+        "example": "true"
+      }
+    }
+  },
+  "showAddressTip": "获取地址失败",
+  "@showAddressTip": {
+    "description": "获取地址失败"
+  },
+  "unknownAddress": "未知地址",
+  "@unknownAddress": {
+    "description": "未知地址"
+  },
+  "messageDetailTitle": "查看报警位置",
+  "@messageDetailTitle": {
+    "description": "查看报警位置"
+  },
+  "unbindConfirm": "是否解绑设备?",
+  "@unbindConfirm": {
+    "description": "是否解绑设备"
+  },
+  "cancelRegistrationTip": "请联系客服提交注销申请。\n注：注销后不可恢复。\n客服电话：400-888-8888",
+  "@cancelRegistrationTip": {
+    "description": "用户注销提示"
+  },
+  "locationPermission": "请先开启定位权限",
+  "@locationPermission": {
+    "description": "请先开启定位权限"
+  },
+  "locationFailed": "定位失败",
+  "@locationFailed": {
+    "description": "定位失败"
+  },
+  "openLocationService": "请打开定位服务",
+  "@openLocationService": {
+    "description": "请打开定位服务"
+  },
+  "deviceStateValue": "{index, plural, other{其他} zero{开机} one{关机} two{休眠}}",
+  "@deviceStateValue": {
+    "description": "设备状态值",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "netStateValue": "{index, plural, other{未知} zero{信号强} one{信号中} two{信号弱}}",
+  "@netStateValue": {
+    "description": "网络状态值",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "batteryValue": "{value}%",
+  "@batteryValue": {
+    "description": "Battery vale",
+    "placeholders": {
+      "value": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "satelliteSignalValue": "{index, plural, other{暂无} zero{信号强} one{信号中} two{信号弱}}",
+  "@satelliteSignalValue": {
+    "description": "卫星信号值",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "traceModeName": "{index, plural, other{追踪模式(续航时间短)} zero{待机模式(续航时间最长)} one{打点模式(续航时间长)} two{普通模式(续航时间中等)}}",
+  "@traceModeName": {
+    "description": "Trace mode name",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "traceModeName2": "{index, plural, other{追踪模式} zero{待机模式} one{打点模式} two{普通模式}}",
+  "@traceModeName2": {
+    "description": "Trace mode name",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "traceModeDesc": "{index, plural, other{设备每隔 30秒 上报一次定位信息，数据上传频率高，优点是回放轨迹时，轨迹线段完整，可查询轨迹数据更多，更全。} zero{设备不主动上报位置，与平台保持正常心跳，平台可主动定位。} one{设备每隔 1小时 上报一次定位信息，数据上传频率低，只能看到少量的位置点，可查询轨迹数据也很少，轨迹成点状分布。} two{设备每隔 3分钟 上报一次定位信息，数据上传频率适中，轨迹比较完整。}}",
+  "@traceModeDesc": {
+    "description": "Trace mode desc",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "traceModePower": "{index, plural, other{耗电高} zero{耗电低} one{耗电较低} two{耗电中等}}",
+  "@traceModePower": {
+    "description": "Trace mode power",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "traceModeEndurance": "{index, plural, other{续航较短} zero{续航最长} one{续航较长} two{续航中等}}",
+  "@traceModeEndurance": {
+    "description": "Trace mode Endurance",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "fastSelect": "{index, plural, other{自定义} zero{今天} one{昨天} two{前天}}",
+  "@fastSelect": {
+    "description": "Fast select",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "locateModeName": "{index, plural, other{其他} zero{GPS} one{Wi-Fi} two{LBS}}",
+  "@locateModeName": {
+    "description": "Locate mode",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "startTime": "开始时间",
+  "endTime": "结束时间",
+  "filterDuration": "过滤停车时长",
+  "query": "开始查询",
+  "onOffTipText": "如长时间不使用可远程关机,关机后设备待机更久但不更新位置信息，请谨慎操作",
+  "selfCheckReport": "自检报告",
+  "dataTime": "数据时间:",
+  "addFeedback": "新增反馈",
+  "save": "保存",
+  "positioningTime": "定位时间",
+  "signalTime": "信号时间",
+  "timeOnTip": "开始时间需在结束时间之前",
+  "timeChooseTip": "请选择时间",
+  "sortSelect": "{index, plural, other{无} zero{升序} one{降序}}",
+  "@sortSelect": {
+    "description": "排序选择",
+    "placeholders": {
+      "index": {
+        "type": "int",
+        "example": "0"
+      }
+    }
+  },
+  "screen": "筛选",
+  "modeTips": "必须存在一个定位方式"
+}

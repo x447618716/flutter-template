@@ -1,0 +1,57 @@
+[{
+  "name": "车",
+  "icon": "assets/images/56@2x.png",
+  "iconSelected": "assets/images/57@2x.png"
+}, {
+  "name": "牲畜",
+  "icon": "assets/images/55@2x.png",
+  "iconSelected": "assets/images/58@2x.png"
+}, {
+  "name": "狗",
+  "icon": "assets/images/53@2x.png",
+  "iconSelected": "assets/images/59@2x.png"
+}, {
+  "name": "人",
+  "icon": "assets/images/54@2x.png",
+  "iconSelected": "assets/images/60@2x.png"
+}, {
+  "name": "电动车",
+  "icon": "assets/images/52@2x.png",
+  "iconSelected": "assets/images/61@2x.png"
+}, {
+  "name": "船",
+  "icon": "assets/images/46@2x.png",
+  "iconSelected": "assets/images/47@2x.png"
+}, {
+  "name": "挖掘机",
+  "icon": "assets/images/45@2x.png",
+  "iconSelected": "assets/images/48@2x.png"
+}, {
+  "name": "通用",
+  "icon": "assets/images/44@2x.png",
+  "iconSelected": "assets/images/49@2x.png"
+}, {
+  "name": "大货车",
+  "icon": "assets/images/42@2x.png",
+  "iconSelected": "assets/images/50@2x.png"
+}, {
+  "name": "大巴车",
+  "icon": "assets/images/43@2x.png",
+  "iconSelected": "assets/images/51@2x.png"
+}, {
+  "name": "羊",
+  "icon": "assets/images/37@2x.png",
+  "iconSelected": "assets/images/38@2x.png"
+}, {
+  "name": "狗",
+  "icon": "assets/images/36@2x.png",
+  "iconSelected": "assets/images/39@2x.png"
+}, {
+  "name": "设备",
+  "icon": "assets/images/35@2x.png",
+  "iconSelected": "assets/images/40@2x.png"
+}, {
+  "name": "摩托车",
+  "icon": "assets/images/34@2x.png",
+  "iconSelected": "assets/images/41@2x.png"
+}]
